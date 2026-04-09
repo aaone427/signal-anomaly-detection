@@ -38,5 +38,5 @@ the Random Forest on a single split, 10-fold cross-validation and a Wilcoxon tes
 Python, scikit-learn, pandas, numpy, matplotlib, seaborn
 
 ## Author
-
+Amantle Segaiso
 
